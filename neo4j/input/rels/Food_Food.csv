@@ -1,0 +1,2 @@
+:START_ID(Food),:END_ID(Food),:TYPE
+Fish,Chips,HAS_RELATED_FOOD
